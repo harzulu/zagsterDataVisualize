@@ -109,8 +109,8 @@ function updateChartM() {
             labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
             datasets: [{
                 label: 'Zagster Number of Rides Per Month in 2017',
-                backgroundColor: 'rgb(255, 99, 132)',
-                borderColor: 'rgb(255, 99, 132)',
+                backgroundColor: 'rgb(99, 255, 132)',
+                borderColor: 'rgb(99, 255, 132)',
                 data: my_dataM
             }]
         },
@@ -129,8 +129,8 @@ function updateChartF() {
             labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October'],
             datasets: [{
                 label: 'Zagster Number of Rides Per Month in 2018',
-                backgroundColor: 'rgb(255, 99, 132)',
-                borderColor: 'rgb(255, 99, 132)',
+                backgroundColor: 'rgb(132, 99, 255)',
+                borderColor: 'rgb(132, 99, 255)',
 
                 data: my_dataF 
             }]
